@@ -1,0 +1,27 @@
+[
+    {
+        "query_id": "query_case_028",
+        "query_text": "hkama ahkamah agung repub ahkamah agung republik indonesia mah agung republik indonesia blik indonesi direktori putusan mahkamah agung republik indonesia putusan.mahkamahagung.go.id p u t u s a n no. 709 k/pdt.sus/2012 demi keadilan berdasarkan ketuhanan yang maha esa m a h k a m a h a g u n g memeriksa perkara perdata khusus hak atas kekayaan intelektual (merek) pada tingkat kasasi telah memutuskan sebagai berikut dalam perkara: gs. yuasa corporation, berkedudukan inobaba-cho, nishinosho, kissh...",
+        "ground_truth_case_id": "case_028"
+    },
+    {
+        "query_id": "query_case_016",
+        "query_text": "hkama ahkamah agung repub ahkamah agung republik indonesia mah agung republik indonesia blik indonesi direktori putusan mahkamah agung republik indonesia putusan.mahkamahagung.go.id hal. 1 dari 69 hal. put. no. 149 pk/pdt.sus/2011 p u t u s a n nomor : 149 pk/pdt.sus/2011 demi keadilan berdasarkan ketuhanan yang maha esa m a h k a m a h a g u n g memeriksa perkara perdata khusus hak atas kekayaan intelektual (merek) dalam peninjauan kembali telah mengambil putusan sebagai berikut dalam perkara a...",
+        "ground_truth_case_id": "case_016"
+    },
+    {
+        "query_id": "query_case_024",
+        "query_text": "hkama ahkamah agung repub ahkamah agung republik indonesia mah agung republik indonesia blik indonesi direktori putusan mahkamah agung republik indonesia putusan.mahkamahagung.go.id putusan no: 383 k./pdt.sus/2012 demi keadilan berdasarkan ketuhanan yang maha esa mahkamah agung memeriksa perkara perdata khusus merek dalam tingkat kasasi telah mengambil putusan sebagai berikut dalam perkara antara : hj. purnamasari, bertempat tinggal di jalan cempaka raya, nomor 26a kelurahan pasanggrahan, kecama...",
+        "ground_truth_case_id": "case_024"
+    },
+    {
+        "query_id": "query_case_018",
+        "query_text": "hkama ahkamah agung repub ahkamah agung republik indonesia mah agung republik indonesia blik indonesi direktori putusan mahkamah agung republik indonesia putusan.mahkamahagung.go.id hal. 1 dari 9 hal. put. no.456 k/ag/2007 p u t u s a n nomor: 456 k/ag/2007 bismillahirrahmanirrahim demi keadilan berdasarkan ketuhanan yang maha esa m a h k a m a h a g u n g memeriksa perkara perdata agama dalam tingkat kasasi telah memutuskan sebagai berikut dalam perkara: 1. inaq nursih ; 2. inaq jembar, keduany...",
+        "ground_truth_case_id": "case_018"
+    },
+    {
+        "query_id": "query_case_009",
+        "query_text": "......",
+        "ground_truth_case_id": "case_009"
+    }
+]
